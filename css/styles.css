@@ -1,0 +1,21 @@
+body {
+    font-family: "Lucida Sans Regular";
+    overflow-x: hidden;
+  }
+
+.bg-principal {
+    background-color: #655E00;
+  }
+
+.cuadrotexto {
+
+  background-color: lightgrey;
+  width: 500px;
+  border: 15px solid #655E00;
+  padding: 20px;
+  margin: 10px;
+}
+
+.pad-y {
+  padding-top: 5%;
+}
